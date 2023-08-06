@@ -1,3 +1,4 @@
+https://cw-1-xvea.vercel.app/
 ULEM-MSIMBO - MSB-FY23C1 Deliverable 1. List of Fav
 
 Version 3 - Tailwind local and cloud repo should only use tailwind for its sytlesheet To use the tailwind stylesheet add<script src="https://cdn.tailwindcss.com"></script>in the tag Push the repo to GitHub Resubmit the public GitHub and Vercel links
